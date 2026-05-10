@@ -49,7 +49,7 @@ A Python desktop application built to process and back up large volumes of LMS d
 
 **Technologies:** Python, REST APIs, token-based authentication, GitHub Actions, CI/CD  
 **Impact:** Processes and backs up 90+ GB of enterprise LMS data weekly.  
-**Repository:** [Add project link here]
+**Repository:** https://github.com/vidaldl/caughtUP
 
 ---
 
@@ -58,7 +58,7 @@ A collection of internal tools and backend integrations built to automate admini
 
 **Technologies:** Python, JavaScript, REST APIs, SQL, Git, CI/CD  
 **Impact:** Helped save 14,000+ manual administrative hours over 3 years.  
-**Repository:** [Add project link here if public]
+**Repository:**: https://github.com/vidaldl/Admin-Tools-v2
 
 ---
 
